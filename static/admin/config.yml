@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/Zubair-Ashraf/gatsby-netlify-cms.git
+  repo: Zubair-Ashraf/gatsby-netlify-cms
 
 media_folder: static/assets
 public_folder: assets
